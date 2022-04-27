@@ -1,0 +1,21 @@
+import initScrollSoft from './modules/soft-scroll.js';
+import initAnimateScroll from './modules/animate-scroll.js';
+import initAccordionFaq from './modules/accordion-faq.js';
+import initTabNav from './modules/tab-nav.js';
+import initModal from './modules/modal.js';
+import initTolltip from './modules/tooltip.js';
+import initDropdownMenu from './modules/dropdown-menu.js';
+import initMenuMobile from './modules/menu-mobile.js';
+import initAnimateNumbers from './modules/animate-numbers.js';
+import initOperation from './modules/operation.js';
+
+initScrollSoft();
+initAnimateScroll();
+initAccordionFaq();
+initTabNav();
+initModal();
+initTolltip();
+initDropdownMenu();
+initMenuMobile();
+initAnimateNumbers();
+initOperation();

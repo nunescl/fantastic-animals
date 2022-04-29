@@ -11,7 +11,7 @@ export default function initAnimateNumbers() {
         start = start + increase;
         number.innerText = start;
         if (start > total) {
-          number.innerText = total;
+          number.innerText = total.toLocaleString();
           clearInterval(timer);
         }
       }, 25 * Math.random());

@@ -304,4 +304,19 @@ body {
   }
 }
 
+[data-week]::after{
+  display: inline-block;
+  content: ''; 
+  width: 9px;
+  height: 9px;
+  background: red;
+  border-radius: 50%;
+  margin-left: 6px;
+  border: 1px solid black
+}
+
+[data-week].open::after{
+  background: #97d700;
+}
+
 

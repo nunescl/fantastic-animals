@@ -319,4 +319,11 @@ body {
   background: #97d700;
 }
 
+.btc-price {
+  background: #97d700;
+  padding: .2rem .5rem;
+  font-weight: bold;
+  border-radius: 2px;
+}
+
 

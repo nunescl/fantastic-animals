@@ -1,0 +1,32 @@
+[
+  {
+    "specie": "Owl",
+    "total": 212,
+    "description": "Species in the world"
+  },
+  {
+    "specie": "Lemur",
+    "total": 2200,
+    "description": "Animals of <i>Lemur catta</i> specie"
+  },
+  {
+    "specie": "Elephant",
+    "total": 416000,
+    "description": "Animals in the world"
+  },
+  {
+    "specie": "Llama",
+    "total": 2000000,
+    "description": "Animals in Bolivia"
+  },
+  {
+    "specie": "Kangaroo",
+    "total": 42800000,
+    "description": "Animals in Australia, more than twice the country's population"
+  },
+  {
+    "specie": "Panda",
+    "total": 1800,
+    "description": "Animals in the world"
+  }
+]
